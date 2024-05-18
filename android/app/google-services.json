@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "560834883767",
+    "project_id": "insta-demo-e3a0b",
+    "storage_bucket": "insta-demo-e3a0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560834883767:android:b7a5610bc47cddcd02dd32",
+        "android_client_info": {
+          "package_name": "com.example.insta_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu-YPJztiyDcQyCukrsfeVkmNX2c_J78c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560834883767:android:0f841a539d119abc02dd32",
+        "android_client_info": {
+          "package_name": "com.example.learn_bloc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu-YPJztiyDcQyCukrsfeVkmNX2c_J78c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560834883767:android:5f15f15cc7bb5de202dd32",
+        "android_client_info": {
+          "package_name": "com.example.socialmedia_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu-YPJztiyDcQyCukrsfeVkmNX2c_J78c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
